@@ -1,0 +1,3 @@
+ 15:42:19 up 1 day,  3:48,  1 user,  load average: 0,54, 0,31, 0,28
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ioni     tty7     :0               jue11   27:48m  1:10m  0.22s /sbin/upstart --user
