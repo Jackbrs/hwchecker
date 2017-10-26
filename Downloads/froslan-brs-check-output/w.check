@@ -1,3 +1,0 @@
- 15:12:38 up 4 days, 23:40,  1 user,  load average: 0.66, 0.26, 0.09
-USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
-pancho   tty7     :0               29Sep17  6days 27:41   0.33s /sbin/upstart --user
